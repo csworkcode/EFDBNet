@@ -11,7 +11,7 @@ MEBI-2000 dataset is derived from the public dataset of Ali Tianchi competition.
 
 <img src=".\mebi\imgs_11.jpg" alt="imgs_11" style="zoom:25%;" /><img src=".\mebi\imgs_2.jpg" alt="imgs_2" style="zoom:25%;" /><img src=".\mebi\imgs_1.jpg" alt="imgs_1" style="zoom:25%;" />
 
-<img src=".\mebi\imgs_10.jpg" alt="imgs_10" style="zoom:25%;" /><img src=".\mebi\imgs_5.jpg" alt="imgs_5" style="zoom:25%;" /><img src=".t\mebi\imgs_3.jpg" alt="imgs_3" style="zoom:25%;" />
+<img src=".\mebi\imgs_10.jpg" alt="imgs_10" style="zoom:25%;" /><img src=".\mebi\imgs_5.jpg" alt="imgs_5" style="zoom:25%;" /><img src=".\mebi\imgs_3.jpg" alt="imgs_3" style="zoom:25%;" />
 
 <img src=".\mebi\imgs_730.jpg" alt="imgs_730" style="zoom:25%;" /><img src=".\mebi\imgs_8.jpg" alt="imgs_8" style="zoom:25%;" /><img src=".\mebi\imgs_7.jpg" alt="imgs_7" style="zoom: 40%;" />
 
